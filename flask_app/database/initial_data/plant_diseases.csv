@@ -1,0 +1,7 @@
+crop_name,disease_name,pathogen_type,symptoms,preventive_measures
+Tomato,Early Blight,Fungus,"Dark brown spots with concentric rings on lower leaves leading to yellowing","Crop rotation and avoid overhead watering"
+Tomato,Powdery Mildew,Fungus,"White powdery fungal growth on upper leaf surfaces and stunted leaf growth","Ensure good air circulation and use sulfur-based fungicide"
+Cucumber,Downy Mildew,Fungus,"Angular yellow spots on upper leaf surface with purplish gray mold underneath","Reduce humidity and space plants adequately"
+Potato,Late Blight,Oomycete,"Water-soaked dark lesions on leaf tips with rapid foliage decay","Use certified disease-free seed tubers and copper fungicides"
+Tomato,Blossom End Rot,Physiological Disorder,"Sunken dark leathery spots at blossom end of fruit due to calcium deficiency and water stress","Maintain consistent irrigation schedule and conduct routine soil calcium tests"
+Rose,Black Spot,Fungus,"Circular dark brown to black spots with fringed margins on upper leaf surfaces surrounded by yellow halos leading to premature defoliation","Prune infected foliage avoid overhead watering and ensure adequate air circulation"

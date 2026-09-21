@@ -1,0 +1,7 @@
+disease_name,treatment_type,active_ingredient,trade_name,dosage_per_liter,safety_interval_days,instructions
+"Early Blight","Fungicide","Chlorothalonil","Daconil","2.0 ml/L",7,"Apply at first sign of spots; reapply every 7-10 days under humid conditions."
+"Powdery Mildew","Bio-Fungicide / Chemical","Wettable Sulfur / Potassium Bicarbonate","Thiovit Jet","3.0 g/L",1,"Spray in the early morning or evening; do not spray when temperatures exceed 30°C."
+"Downy Mildew","Systemic Fungicide","Mefenoxam + Mancozeb","Ridomil Gold","2.5 g/L",14,"Ensure thorough coverage on both upper and lower leaf undersides."
+"Late Blight","Protective Fungicide","Copper Hydroxide","Kocide 3000","2.0 g/L",3,"Apply preventatively before rain events or immediately when blight is sighted."
+"Blossom End Rot","Nutritional / Foliar","Calcium Chloride / Calcium Nitrate","Cal-Max Pro","4.0 ml/L",0,"Apply as foliar spray directly to developing clusters; calibrate soil moisture drip lines."
+"Black Spot","Systemic Fungicide","Tebuconazole / Difenoconazole","Score 250 EC","0.5 ml/L",14,"Spray thoroughly at the first appearance of dark spots; repeat every 10-14 days if wet weather persists."

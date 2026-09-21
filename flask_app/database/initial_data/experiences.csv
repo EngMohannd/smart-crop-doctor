@@ -1,0 +1,4 @@
+"experience_id","position_id","name","description","hyperlink","start_date","end_date"
+"1","1","Automated Greenhouse Irrigation","Developed an automated greenhouse irrigation system with sensors and solar integration.",NULL,"2024-01-01","2024-05-30"
+"2","3","AI Plant Disease Detection","Built a Flutter mobile app integrated with MobileNetV3 for detecting plant diseases.",NULL,"2024-06-01",NULL
+"3","2","The Little Innovator Program","Designed and delivered interactive STEM curriculum for adolescents focusing on robotics and coding.",NULL,"2024-02-01",NULL
