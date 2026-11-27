@@ -1,0 +1,12 @@
+{
+ "versionCode": 21,
+ "versionName": "2.9",
+ "apk": "https://raw.githubusercontent.com/EngMohannd/smart-crop-doctor/plant-doctor-updates/PlantDoctor.apk",
+ "sha256": "a12accf1dda5d4d760fb4f9cd2fcb1b89fdb153fc1068cafa40c4db81990aa79",
+ "size": 82993290,
+ "notes": [
+  "أشجار ومحاصيل جديدة للكاميرا: مانجا، موز، جوافة، رمان، نخيل، قمح",
+  "التعرف التلقائي يميز المحاصيل الجديدة بدل خلطها بمحاصيل أخرى",
+  "21 مرضًا وآفة جديدة في موسوعة العلاج"
+ ]
+}
